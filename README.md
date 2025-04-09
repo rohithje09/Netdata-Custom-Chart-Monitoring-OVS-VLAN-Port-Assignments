@@ -146,4 +146,3 @@ Your custom stacked chart is now live and updating every 5 seconds.
 - VLAN ID usage stats
 - Port → VLAN mapping view
 
-Let me know which feature you'd like implemented next!
